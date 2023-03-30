@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashfaquethuyyadi
 - 👀 I’m interested in web design 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning python full stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
